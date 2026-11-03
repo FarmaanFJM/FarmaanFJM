@@ -1,5 +1,5 @@
 
-# Far
+# FarmaanFJM
 
 Software engineer building things around chess, AI, and interactive applications.
 
