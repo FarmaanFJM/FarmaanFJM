@@ -5,8 +5,8 @@ Software engineer building things around chess, AI, and interactive applications
 
 ### Projects & goals
 
-- **[Summa](https://github.com/FarmaanFJM/summa)** `(private)` : An autonomous AI development workspace that executes, tests, and verifies software.
 - **[CaissaTrainer](https://github.com/FarmaanFJM/CaissaTrainer)** `(private)` : A complete chess training platform.
+- **[Summa](https://github.com/FarmaanFJM/summa)** `(private)` : An autonomous AI development workspace that executes, tests, and verifies software.
 - **[Chess Player Integrity](https://github.com/FarmaanFJM/chess-player-integrity)** `(private)` : Understand player behavior and detect unusual patterns.
 - **[ChessOTB](https://github.com/FarmaanFJM/ChessOTB)** `(private)` : Photorealistic 3D chess with online play.
 - **[Markdown Studio](https://github.com/FarmaanFJM/markdown-studio)** `(public)` : A modern Markdown editor with live preview and PDF export.
